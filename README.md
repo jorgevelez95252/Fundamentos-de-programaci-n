@@ -1,2 +1,2 @@
-# Fundamentos-de-programaci-n
+# Fundamentos-de-programacion
 Proyecto del curso de programación 
